@@ -1,0 +1,61 @@
+body {
+	background: #d2d2c1 url('C:/Users/infodesign/Desktop/projetassos/projetassos/projetos/projetos/site anna bella/imagens/fundo.png');
+	font: 18px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+	width: 100%;
+}
+
+#menu {
+	background: #c5c5b2;
+	padding: 18px;
+	text-align: center;
+}
+
+a {
+	color: #3498DB;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+
+#conteudo {
+	background: #e8e8d9;
+	padding: 10px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+h1 {
+	color: blue;
+	font-size: 1.2em;
+}
+
+.img-campanha {
+	border: 10px double black;
+}
+
+.cruzeiro {
+	width: 100%;
+}
+
+h4 {
+	color: darkblue;
+}
+
+h5 {
+	color: darkblue;
+}
+
+strong {
+	color: #2471A3;
+}
+
+b {
+	color: darkblue;
+	text-decoration: underline;
+
+}
